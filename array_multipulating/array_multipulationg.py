@@ -9,3 +9,8 @@ newarr=np.arange(50)
 print(newarr)
 dar=np.random.rand(2,4)
 print(dar)
+arr23=np.array([12,2,5,664,356,63])
+print(arr23.shape)
+print(arr23.dtype)
+
+print(arr23.size)
