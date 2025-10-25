@@ -19,3 +19,7 @@ a2=np.array([4,5,6,7,8])
 #print(a1+a2)
 a3=a1+a2
 print(a3)
+a5=np.array([1,4,9,16,25,36])
+print('Square root of the arrays')
+newarr22=np.sqrt(a5)
+print(newarr22)
